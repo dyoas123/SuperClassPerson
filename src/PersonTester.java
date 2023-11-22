@@ -7,9 +7,9 @@
  *
  * @author rautr
  */
-public class PersonTester {
-    
-}
+public class PersonTester 
+{  
+
 public static void main(String[] args)
   {
  Person a = new Person("Anil", 1992);
