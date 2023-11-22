@@ -12,9 +12,9 @@ public class PersonTester
 
 public static void main(String[] args)
   {
- Person a = new Person("Anil", 1992);
-    Student b = new Student("Jimmy", 1919, "Information Technology");
-    Instructor c = new Instructor("Mike", 1998, 95000);
+ Person a = new Person("lester", 2001);
+    Student b = new Student("dyoas", 2003, "BSIT");
+    Instructor c = new Instructor("josip", 2001, 500);
     System.out.println(a);
     System.out.println(b);
     System.out.println(c);

@@ -15,3 +15,8 @@ public class Student extends Person {
      super(n, byear);
      major = m;
  }
+  public String toString()
+  {
+    return "Student[super =" + super.toString() + ",major =" + major + "]";
+  }
+}
