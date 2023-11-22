@@ -7,6 +7,8 @@
  *
  * @author rautr
  */
-public class Student {
-    
-}
+public class Student extends Person {
+    private String major;
+
+  public Student(String n, int byear, String m) 
+
